@@ -1,4 +1,5 @@
-# Modelo de Base de dados para E-Commerce
+# Sistema de controle e gerenciamento de execução de ordens de serviço de oficina mecânica
+
 
 Este modelo é baseado no desafio proposto no bootcamp de Inteligência Artificial Aplicada a Dados com Copilot da DIO, o qual deve como base a seguinte narrativa:
 
